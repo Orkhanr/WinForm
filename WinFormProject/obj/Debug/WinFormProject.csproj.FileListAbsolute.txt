@@ -1,0 +1,13 @@
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe.config
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\bin\Debug\WinFormProject.pdb
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Form1.resources
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Properties.Resources.resources
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.GenerateResource.Cache
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.CoreCompileInputs.cache
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.exe
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.pdb
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.About.resources
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csprojResolveAssemblyReference.cache
+c:\users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Calculator.resources
+C:\Users\orkhanr\source\repos\WinFormProject\WinFormProject\obj\Debug\WinFormProject.EmailForm.resources
